@@ -1,6 +1,6 @@
 # Data Structures Works
 
-It contains my practicies, homeworks and simple projects for Design Pattern course.
+It contains my practices, homeworks and simple projects for Design Pattern course.
 
 Java was used for all of them.
 
